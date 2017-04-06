@@ -1,0 +1,30 @@
+id,value
+Movies,
+Movies.Action,
+Movies.Action.Rogue One,1055
+Movies.Action.Deadpool,4603
+Movies.Action.Suicide Squad,2414
+Movies.Action.Assasins Creed,4456
+Movies.Action.Captain America,1132
+Movies.Comedy,
+Movies.Comedy.Why Him?,117
+Movies.Comedy.Bad Moms,179
+Movies.Comedy.Dirty Grandpa,99
+Movies.Comedy.Neighbors 2,108
+Movies.Drama,
+Movies.Drama.Queen of Katwe,10
+Movies.Drama.The Birth of a Nation,16
+Movies.Drama.The Handmaiden,36
+Movies.Drama.La La Land,432
+Movies.Drama.Little Men,2
+Movies.Animated,
+Movies.Animated.Zootopia,1024
+Movies.Animated.Finding Dory,1028
+Movies.Animated.Sausage Party,140
+Movies.Animated.Ice Age,408
+Movies.Animated.The Wild Life,39
+Movies.Fantasy,
+Movies.Fantasy.The Jungle Book,966
+Movies.Fantasy.Trolls,344
+Movies.Fantasy.Alice Through The Looking Glass,299
+Movies.Fantasy.Moana,617

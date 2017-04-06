@@ -1,0 +1,100 @@
+{
+	"name": "presentation",
+	"children": [
+		{
+			"name": "Tools",
+			"children": [
+				
+				{
+					"name": "SNOW",
+					"children": [
+						{"name": "Admin", "size": 524},
+						{"name": "Developer", "size": 732}
+					]
+				},
+				{
+					"name": "Web Tool",
+					"children": [
+						{"name": "Selenium", "size": 1061},
+						{"name": "CasperJS", "size": 190},
+						{"name": "Katalon", "size": 123},
+						{"name": "QTP", "size": 97}
+					]
+				},
+				{
+					"name": "Mobile Tool",
+					"children": [
+						{"name": "Robotium", "size": 154},
+						{"name": "Appium", "size": 116},
+						{"name": "UI Automator", "size": 140}
+					]
+				}
+			]
+		},
+		{
+			"name": "Cloud Service",
+			"children": [
+				{
+					"name": "AWS",
+					"children": [
+						{"name": "Solutions Architect", "size": 1175},
+						{"name": "Developer", "size": 1356}
+					]
+				},
+				{
+					"name": "Salesforce",
+					"children": [
+						{"name": "Admin", "size": 2487},
+						{"name": "Developer", "size": 2893}
+					]
+				}
+			]
+		},
+		{
+			"name": "Analyst",
+			"children": [
+				{"name": "Data Analyst", "size": 3423},
+				{"name": "System Analyst", "size": 2456},
+				{"name": "IT Analyst", "size": 2943},
+				{"name": "Programmer Analyst", "size": 3953}
+			]
+		},
+		{
+			"name": "Development",
+			"children": [
+				{"name": "Software Engineer", "size": 7990},
+				{"name": "Android Developer", "size": 1544},
+				{"name": "iOS Developer", "size": 1002},
+				{"name": "UX Designer", "size": 863},
+				{"name": "Software Management Developer", "size": 1199}
+			]
+		},
+		{
+			"name": "Direction",
+			"children": [
+				{"name": "Team Lead", "size": 1850},
+				{"name": "HR Manager", "size": 1488},
+				{"name": "Product Manager", "size": 1004},
+				{"name": "QA Manager", "size": 3749},
+				{"name": "Project Manager", "size": 6607}
+			]
+		},
+		{
+			"name": "Database",
+			"children": [
+				{"name": "Database Admin", "size": 2286},
+				{"name": "Hadoop", "size": 706},
+				{"name": "Big Data", "size": 1161},
+				{"name": "SQL Developer", "size": 1796},
+				{"name": "MongoDB", "size": 965}
+			]
+		},
+		
+		{"name": "Business Analyst", "size": 796},
+		{"name": "Business Intelligence", "size": 639},
+		{"name": "Solutions Architect", "size": 2906},
+		{"name": "Data Scientist", "size": 1736},
+		{"name": "Software Architect", "size": 803},
+		{"name": "Analytics Manager", "size": 982}
+	]
+ }
